@@ -1,4 +1,20 @@
-### Hi there 👋
+## Hi! I`m Sergey!
+
+I love Python 🐍 and Machine Learning 🧮.
+
+### 🛠 Technical Stack
+*   Python
+*   SQL: DML (Group query, Sub query, JOIN), DDL
+*   Sklearn, Catboost
+*   Git, Spark, Docker (basic), Linux (basic)
+*   Pandas, Numpy, Matplotlib, Seaborn
+
+### 📜 My certificates
+* [Yandex-Practicum](https://drive.google.com/file/d/1TOpv3nsYsOdjtOIYmHafX6s0M6sequi3/view?usp=sharing)
+
+### ☎️ Contacts
+- [Telegram](https://t.me/Freder1k)
+- E-mail: spotapov2013@yandex.ru
 
 <!--
 **freder1k991/freder1k991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
