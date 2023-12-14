@@ -12,6 +12,7 @@ I love Python 🐍 and Machine Learning 🧮.
 ### 📜 My certificates
 * [Yandex-Practicum](https://drive.google.com/file/d/1TOpv3nsYsOdjtOIYmHafX6s0M6sequi3/view?usp=sharing)
 * [Основы статистики](https://stepik.org/cert/2257442)
+* [Основы статистики. Часть 2](https://stepik.org/cert/2288631)
 
 ### ☎️ Contacts
 - [Telegram](https://t.me/Freder1k)
